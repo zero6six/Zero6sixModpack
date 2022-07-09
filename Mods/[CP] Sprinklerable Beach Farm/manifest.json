@@ -1,0 +1,14 @@
+{
+   "Name": "Sprinklerable Beach Farm",
+   "Author": "lech43",
+   "Version": "1.0.2",
+   "Description": "You can set sprikelers on the sand in beach farm.",
+   "UniqueID": "lech43.CP.SprinklerableBeachFarm",
+   "MinimumApiVersion": "3.8",
+   "UpdateKeys": ["Nexus:7319"],
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher",
+      "MinimumVersion": "1.19.0"
+   },
+   "Dependencies": [],
+}
